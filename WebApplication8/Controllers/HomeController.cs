@@ -10,6 +10,7 @@ namespace WebApplication8.Controllers
     {
         public ActionResult Index()
         {
+            var p = 9;
             return View();
         }
 
